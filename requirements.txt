@@ -7,3 +7,4 @@ openai
 langgraph
 python-dotenv
 langchain_google_genai
+langchain-groq
